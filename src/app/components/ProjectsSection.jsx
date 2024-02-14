@@ -11,8 +11,8 @@ const projectsData = [
     description: "Deployed an AWS-based image recognition service on AWS EC2 instance with Node.js server, effectively handling peak demand scenarios with up to 20 instances while ensuring 100% availability and timely response to user requests.",
     image: "/images/projects/cloud1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/shivanjaywagh/Cloud_Image_Recognition",
+    previewUrl: "https://github.com/shivanjaywagh/Cloud_Image_Recognition",
   },
   {
     id: 2,
@@ -20,8 +20,8 @@ const projectsData = [
     description: "A Java GUI software for drawing and illustrating class diagrams. Inspired by Astah.",
     image: "/images/projects/astah1.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/shivanjaywagh/Astah_swing",
+    previewUrl: "https://github.com/shivanjaywagh/Astah_swing",
   },
   {
     id: 3,
@@ -29,8 +29,8 @@ const projectsData = [
     description: "This parser takes in raw string data of financial payments domain (001. file) and converts it into a dictionary , dataframe , and an excel sheet. The code has some useful ideas based on pattern recognition and regex.",
     image: "/images/projects/payment.png",
     tag: ["All", "Web"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/shivanjaywagh/Parser_For_001_Payment_Files",
+    previewUrl: "https://github.com/shivanjaywagh/Parser_For_001_Payment_Files",
   },
   {
     id: 4,
@@ -38,8 +38,8 @@ const projectsData = [
     description: "FASTag is an electronic toll collection system in India. It is a perfect solution for a hassle-free trip on national highways, it enables automatic deduction of toll charges and lets you pass through the toll plaza without stopping for the cash transaction.",
     image: "/images/projects/fastag.png",
     tag: ["All", "Mobile"],
-    gitUrl: "/",
-    previewUrl: "/",
+    gitUrl: "https://github.com/shivanjaywagh/numplate-detecion-automated-toll-deduction",
+    previewUrl: "https://github.com/shivanjaywagh/numplate-detecion-automated-toll-deduction",
   },
   // {
   //   id: 5,
