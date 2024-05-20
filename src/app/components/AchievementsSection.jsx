@@ -18,7 +18,7 @@ const achievementsList = [
  
   {
     metric: "Professional YOE",
-    value: "1",
+    value: "3",
     postfix: "+",
 
   },
