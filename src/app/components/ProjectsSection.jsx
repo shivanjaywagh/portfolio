@@ -7,6 +7,18 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
+    title: "AI Article Summarizer",
+    description: "Simplify your reading with Jarvis, an open-source article summarizer that transforms lengthy articles into clear and concise summaries.",
+    image: "/images/projects/cloud1.png",
+    tag: ["All", "Web"],
+    gitUrl: "https://github.com/shivanjaywagh/",
+    previewUrl: "https://spontaneous-bienenstitch-4c2b81.netlify.app/",
+  },
+  
+  
+  
+  {
+    id: 2,
     title: "Image Recognition On AWS Cloud",
     description: "Deployed an AWS-based image recognition service on AWS EC2 instance with Node.js server, effectively handling peak demand scenarios with up to 20 instances while ensuring 100% availability and timely response to user requests.",
     image: "/images/projects/cloud1.png",
@@ -15,7 +27,7 @@ const projectsData = [
     previewUrl: "https://github.com/shivanjaywagh/Cloud_Image_Recognition",
   },
   {
-    id: 2,
+    id: 3,
     title: "Astah Swing",
     description: "A Java GUI software for drawing and illustrating class diagrams. Inspired by Astah.",
     image: "/images/projects/astah1.png",
@@ -24,7 +36,7 @@ const projectsData = [
     previewUrl: "https://github.com/shivanjaywagh/Astah_swing",
   },
   {
-    id: 3,
+    id: 4,
     title: "Payment File Parser",
     description: "This parser takes in raw string data of financial payments domain (001. file) and converts it into a dictionary , dataframe , and an excel sheet. The code has some useful ideas based on pattern recognition and regex.",
     image: "/images/projects/payment.png",
@@ -33,7 +45,7 @@ const projectsData = [
     previewUrl: "https://github.com/shivanjaywagh/Parser_For_001_Payment_Files",
   },
   {
-    id: 4,
+    id: 5,
     title: "FASTAG",
     description: "FASTag is an electronic toll collection system in India. It is a perfect solution for a hassle-free trip on national highways, it enables automatic deduction of toll charges and lets you pass through the toll plaza without stopping for the cash transaction.",
     image: "/images/projects/fastag.png",
@@ -41,6 +53,15 @@ const projectsData = [
     gitUrl: "https://github.com/shivanjaywagh/numplate-detecion-automated-toll-deduction",
     previewUrl: "https://github.com/shivanjaywagh/numplate-detecion-automated-toll-deduction",
   },
+
+
+
+
+
+
+
+
+  
   // {
   //   id: 5,
   //   title: "React Firebase Template",
