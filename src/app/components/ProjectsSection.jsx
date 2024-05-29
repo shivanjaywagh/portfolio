@@ -9,7 +9,7 @@ const projectsData = [
     id: 1,
     title: "AI Article Summarizer",
     description: "Simplify your reading with Jarvis, an open-source article summarizer that transforms lengthy articles into clear and concise summaries.",
-    image: "/images/projects/cloud1.png",
+    image: "/images/projects/sumz_ai.png",
     tag: ["All", "Web"],
     gitUrl: "https://github.com/shivanjaywagh/",
     previewUrl: "https://spontaneous-bienenstitch-4c2b81.netlify.app/",
